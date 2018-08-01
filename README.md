@@ -23,3 +23,10 @@ This Arduino Project just uses an Ultrasonic Sensor for detecting the objects, a
 ### Processing IDE Code
 The program will receive the values for the angle and the distance measured by the sensor from the Arduino Board into the Processing IDE using the SerialEvent() function which reads the data from the Serial Port and we will put the values of the angle and the distance into the variables iAngle and iDistance. These variable will be used for drawing the radar, the lines, the detected objects and some of the text.
 
+![alt text][live_data]
+
+[live_data]: https://github.com/yashgoenka/Arduino-Sonar-Radar/blob/master/live_data.png
+
+## Video of Radar in operation
+
+*the video is yet to be made*
