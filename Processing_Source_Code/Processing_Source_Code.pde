@@ -1,12 +1,5 @@
-/*   Arduino Radar Project
- *
- *   Updated version. Fits any screen resolution!
- *   Just change the values in the size() function,
- *   with your screen resolution.
- *      
- *  by Dejan Nedelkovski, 
- *  www.HowToMechatronics.com
- *  
+/*   Arduino Radar Project by YVG
+ *   Updated version. Fits any screen resolution after manually adjusting values.
  */
 
 import processing.serial.*; // imports library for serial communication

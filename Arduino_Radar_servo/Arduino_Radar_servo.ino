@@ -1,4 +1,5 @@
-// Includes the Servo library
+// By YVG
+//Includes the Servo library
 #include <Servo.h>. 
 // Defines Tirg and Echo pins of the Ultrasonic Sensor
 const int trigPin = 10;
