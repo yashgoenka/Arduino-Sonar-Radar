@@ -27,6 +27,10 @@ The program will receive the values for the angle and the distance measured by t
 
 [live_data]: https://github.com/yashgoenka/Arduino-Sonar-Radar/blob/master/live_data.png
 
-## Video of Radar in operation
+## Radar in operation
+
+![alt text][live_photo]
+
+[live_photo]: https://github.com/yashgoenka/Arduino-Sonar-Radar/blob/master/IMG_0926.JPG
 
 *the video is yet to be made*
